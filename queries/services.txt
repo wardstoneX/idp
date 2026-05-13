@@ -1,0 +1,68 @@
+hospitals
+emergency rooms
+clinics
+general practitioners
+dental clinics
+pharmacies
+physiotherapy centers
+mental health services
+medical laboratories
+urgent care centers
+banks
+ATMs
+insurance offices
+tax consultants
+accounting firms
+financial advisory offices
+currency exchange offices
+city halls
+district offices
+immigration offices
+labor offices
+social welfare offices
+public service agencies
+courts
+police stations
+fire departments
+law firms
+notaries
+consulting firms
+IT service companies
+software agencies
+recruitment agencies
+HR services
+marketing agencies
+design studios
+engineering consultancies
+utility companies
+waste management services
+recycling centers
+parking management services
+building maintenance services
+construction services
+facility management companies
+laundry services
+dry cleaning services
+real estate agencies
+property management companies
+housing offices
+relocation services
+rental agencies
+courier services
+parcel pickup points
+post offices
+delivery service hubs
+storage lockers
+freight services
+law offices
+legal aid services
+visa consultants
+documentation services
+translation services
+certification services
+tutoring centers
+language schools
+exam preparation centers
+training providers
+professional certification institutes
+driving schools

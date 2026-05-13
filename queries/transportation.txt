@@ -1,0 +1,32 @@
+transport station
+public transport
+transit station
+transportation hub
+metro station
+subway station
+underground station
+train station
+railway station
+tram stop
+tram station
+bus station
+bus stop
+coach station
+taxi stand
+taxi rank
+rideshare pickup
+airport shuttle
+ferry terminal
+bike sharing station
+bike rental
+scooter rental
+parking garage
+parking lot
+park and ride
+24 hour transport
+late night transport
+night bus station
+night train station
+airport transfer
+night shuttle 
+

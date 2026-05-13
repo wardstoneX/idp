@@ -1,0 +1,26 @@
+name: night-mobility
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python
+  - python=3.10
+  
+  # Data Manipulation & Analysis
+  - pandas
+  - numpy
+  
+  # API Requests & Geocoding
+  - requests
+  - geopy        # Great for OpenStreetMap (Nominatim) geocoding
+  
+  # Visualization (For your later milestones)
+  - matplotlib
+  - seaborn
+  
+  # IDE / Notebooks
+  - jupyter
+
+  - fake-useragent
+  - playwright
+  

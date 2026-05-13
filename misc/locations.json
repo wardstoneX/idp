@@ -1,0 +1,13 @@
+{
+  "munchenhauptbahnhof": { "lat": 48.1402, "lon": 11.5587 },
+  "marienplatz": { "lat": 48.1374, "lon": 11.5755 },
+  "ostbahnhof": { "lat": 48.1276, "lon": 11.6055 },
+  "pasing": { "lat": 48.1499, "lon": 11.4609 },
+  "sendlingertor": { "lat": 48.1339, "lon": 11.5650 },
+  "frankfurterring": { "lat": 48.1889, "lon": 11.5560 },
+  "neuperlachZentrum": { "lat": 48.1046, "lon": 11.6389 },
+  "harras": { "lat": 48.1170, "lon": 11.5400 },
+  "laim": { "lat": 48.1448, "lon": 11.5076 },
+  "munchnerfreiheitmunchen": {"lat": 48.163206,"lon": 11.5870477},
+  "rosenheimerplatzmunchen": { "lat": 48.1292048, "lon": 11.5935869}
+}

@@ -1,0 +1,31 @@
+cinemas
+movie theaters
+theaters
+opera houses
+concert halls
+music venues
+live music venues
+clubs
+nightclubs
+bars
+pubs
+karaoke bars
+comedy clubs
+arcades
+gaming centers
+bowling alleys
+escape rooms
+amusement parks
+water parks
+zoos
+aquariums
+museums
+art galleries
+cultural centers
+exhibition centers
+event venues
+stadiums
+sports arenas
+recreation centers
+indoor playgrounds
+dance studios
