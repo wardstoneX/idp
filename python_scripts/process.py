@@ -85,6 +85,8 @@ def process_file(input_path, output_path, location):
         rows.append({
             "name": row.get("title"),
             "place_id": row.get("place_id"),
+            "category": row.get("category"),
+            "link": row.get("link"),
             "lat": lat,
             "lon": lon,
             "location": location,

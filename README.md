@@ -73,6 +73,63 @@ scraper/
                                                 └──────────────────┘
 ```
 
+## Time Format Handling
+
+All times are internally converted to **decimal hours** (0.0–24.0) for arithmetic and comparison.
+
+### Conversion Rules
+
+| Input format | Example | Decimal | Rule |
+|---|---|---|---|
+| `H:MMam` / `H:MMpm` | `"10:30am"` | `10.5` | 12h clock → minutes ÷ 60 |
+| `H:MMpm` | `"5:30pm"` | `17.5` | PM → +12 hours |
+| `H.MMam` / `H.MMpm` | `"5.30 PM"` | `17.5` | Dot accepted as colon |
+| `HH:MM` (24h) | `"14:00"` | `14.0` | No am/pm → 24h clock |
+| Bare `Hpm` / `Ham` | `"5pm"` | `17.0` | No minutes → `.0` |
+| `"Closed"` | — | `[(0, 0)]` | Zero-length interval |
+
+### Midnight Handling
+
+Midnight is the critical edge case. The parser distinguishes between **midnight-as-start** and **midnight-as-end**:
+
+| Time | Role | Value | Reason |
+|---|---|---|---|
+| `"12:00am"` | Start of interval | `0.0` | Beginning of day |
+| `"12:00am"` | End of interval | `24.0` | End of day (closing at midnight) |
+
+**Example:** `"4pm–12am"` → start=`16.0`, end=`0.0` → adjusted to `24.0` → interval `[(16, 24)]`  
+A place open 4pm to midnight is open `[16:00–24:00]`, not `[16:00–00:00]`.
+
+### Overnight Intervals
+
+When closing time is before opening time (crosses midnight), the interval is **split into two segments**:
+
+| Input | Parsed | Meaning |
+|---|---|---|
+| `"10pm–2am"` | `[(22, 24), (0, 2)]` | 10pm–midnight, midnight–2am |
+| `"8pm–4am"` | `[(20, 24), (0, 4)]` | 8pm–midnight, midnight–4am |
+| `"5pm–4am"` | `[(17, 24), (0, 4)]` | 5pm–midnight, midnight–4am |
+
+### Query Time Window
+
+The night-mobility query window `"20:00-06:00"` is parsed the same way:
+
+```
+"20:00-06:00" → [(20, 24), (0, 6)]
+```
+
+A place is considered "open during the window" if **any** of its daily opening intervals overlap with **any** segment of the query window. Overlap check: `max(open_start, query_start) < min(open_end, query_end)`.
+
+### Am/Pm Suffix Inheritance
+
+When only one side of an interval has an am/pm suffix, the other side inherits it from the raw string's trailing suffix or from the other side:
+
+| Input | Left gets | Right gets | Result |
+|---|---|---|---|
+| `"9–11pm"` | inherits `"pm"` | `"pm"` (explicit) | `[(21, 23)]` |
+| `"9am–11"` | `"am"` (explicit) | inherits `"am"` | `[(9, 11)]` |
+| `"5:30–7:30 pm"` | inherits `"pm"` | `"pm"` (explicit) | `[(17.5, 19.5)]` |
+
 ## Python Scripts
 
 ### `utils.py` — Core Library
