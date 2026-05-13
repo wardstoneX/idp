@@ -7,3 +7,4 @@ output/
 .D
 .DS_Store
 result/
+.env
