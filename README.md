@@ -12,32 +12,9 @@ scraper/
 ├── .env                         # (gitignored) API keys / secrets
 ├── google-maps-scraper/         # External Go scraper (gitignored, built from source)
 ├── data/                        # Raw CSV exports from Google Maps scraper
-│   ├── frankfurterring.csv
-│   ├── marienplatz.csv
-│   ├── munchenhauptbahnhof.csv
-│   ├── ostbahnhof.csv
-│   ├── pasing.csv
-│   └── sendlingertor.csv
 ├── output/                      # Processed CSV: distance + time-filtered (currently empty)
 ├── result/                      # Category-specific scraped results (per location × category)
-│   ├── marienplatz_entertainment.csv
-│   ├── marienplatz_food.csv
-│   ├── marienplatz_services.csv
-│   ├── marienplatz_shopping.csv
-│   ├── marienplatz_transportation.csv
-│   ├── maxWeberPlatz_entertainment.csv ...
-│   ├── muenchnerFreiheit_entertainment.csv ...
-│   ├── ostbahnhof_entertainment.csv ...
-│   ├── pasing_entertainment.csv ...
-│   ├── rosenheimerPlatz_entertainment.csv ...
-│   └── sendlingerTor_entertainment.csv ...
 ├── queries/                     # Google Maps search query strings per category
-│   ├── all-queries.txt
-│   ├── entertainment.txt
-│   ├── food.txt
-│   ├── services.txt
-│   ├── shopping.txt
-│   └── transportation.txt
 ├── misc/
 │   └── locations.json           # Station coordinates {name: {lat, lon}}
 └── python_scripts/
