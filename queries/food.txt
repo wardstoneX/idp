@@ -16,11 +16,11 @@ grab and go
 takeaway
 take out
 delivery food
-restaurant munich
-restaurant münchen
-food munich
-food münchen
-dining munich
+restaurant 
+
+food 
+food 
+dining 
 gaststätte
 lokal
 wirtshaus
@@ -139,21 +139,21 @@ viktualienmarkt
 restaurant in der nähe
 essen in der nähe
 wo essen
-mittagessen münchen
-abendessen münchen
-frühstück münchen
-imbiss münchen
-bäckerei münchen
-cafe münchen
-lokal münchen
+mittagessen  
+abendessen  
+frühstück  
+imbiss  
+bäckerei  
+cafe  
+lokal  
 gasthaus
 gasthof
-wirtshaus münchen
-best restaurant munich
-best pizza munich
-best cafe munich
-cheap restaurant munich
-cheap food munich
+wirtshaus  
+best restaurant  
+best pizza  
+best cafe  
+cheap restaurant  
+cheap food  
 open now restaurant
 restaurant open now
 food open now

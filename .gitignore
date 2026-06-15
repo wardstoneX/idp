@@ -9,3 +9,7 @@ output/
 result/
 .env
 *.zip
+proxy-list.txt
+google-maps-scraper/
+google-maps-scraper
+results/

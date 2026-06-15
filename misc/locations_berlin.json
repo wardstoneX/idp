@@ -1,0 +1,13 @@
+{
+  "berlinHauptbahnhof": { "lat": 52.5250704, "lon": 13.3690329 },
+  "rathausSpandau": { "lat": 52.5347542, "lon": 13.1968734 },
+  "ostkreuzBahnhof": { "lat": 52.5031763, "lon": 13.4689492 },
+  "kurtSchumacherPlatz": { "lat": 52.5632229, "lon": 13.3267938 },
+  "kurfürstandamm": { "lat": 52.5035823, "lon": 13.3308147 },
+  "alexanderPlatz": { "lat": 52.5214783, "lon": 13.4112393 },
+  "friedrichstraßeBahnhof": { "lat": 52.5204655, "lon": 13.386811 },
+  "ostbahnhof": { "lat": 52.5103756, "lon": 13.4342699 },
+  "potsdamerPlatzBahnhof": { "lat": 52.5087956, "lon": 13.3758327 },
+    "zoologisherGarten": { "lat": 52.5071155, "lon": 13.3316218 }
+
+}

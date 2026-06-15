@@ -2,6 +2,16 @@
 
 Scrapes Google Maps place data around Munich transit stations, processes opening hours & popular times, and filters for places open during night-time windows (20:00–06:00).
 
+
+## Clone
+Clone repository (including submodules):
+
+```bash
+git clone --recurse-submodules https://github.com/wardstoneX/idp.git
+# or, if you've already cloned the repo:
+git submodule update --init --recursive
+```
+
 ## Folder Structure
 
 ```

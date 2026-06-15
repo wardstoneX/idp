@@ -1,7 +1,8 @@
 24 hour food
 24 hour transport
 3d printing service
-abendessen münchen
+abendessen  
+abendessen  
 abortion clinic
 abrasives supplier
 abuse and addiction treatment
@@ -37,14 +38,14 @@ agricultural service
 agriculture
 agriculture association
 agriturismo
-air duct cleaning service
 aircraft dealer
 aircraft manufacturer
 aircraft parts and supplies
 aircraft repair
+air duct cleaning service
 airline
-airline ticket agency
 airlines
+airline ticket agency
 airport
 airport lounge
 airport shuttle
@@ -86,8 +87,8 @@ appliance store
 appliance stores
 appraisal services
 aquarium
-aquarium services
 aquariums
+aquarium services
 aquatic pet store
 arabian restaurant
 arabic restaurant
@@ -108,16 +109,16 @@ army and navy store
 aromatherapy
 art galleries
 art gallery
+artificial turf
 art museum
 art restoration
 art restoration service
+arts and crafts
+arts and entertainment
 art school
 art space rental
 art supply store
 art tours
-artificial turf
-arts and crafts
-arts and entertainment
 asian art museum
 asian fusion restaurant
 asian grocery store
@@ -126,15 +127,16 @@ assisted living facility
 astrologer
 atelier
 atms
+ATMs
 attraction farm
 attractions and activities
 atv recreation park
 atv rentals and tours
 auction house
-audio visual equipment store
-audio visual production and design
 audiologist
 audiovisual equipment rental
+audio visual equipment store
+audio visual production and design
 auditorium
 australian restaurant
 austrian restaurant
@@ -147,11 +149,6 @@ auto glass service
 auto insurance
 auto loan provider
 auto manufacturers and distributors
-auto parts and supply store
-auto parts stores
-auto restoration services
-auto security
-auto upholstery
 automation services
 automobile leasing
 automobile registration service
@@ -163,6 +160,11 @@ automotive repair
 automotive services and repair
 automotive storage facility
 automotive wheel polishing service
+auto parts and supply store
+auto parts stores
+auto restoration services
+auto security
+auto upholstery
 aviation museum
 avionics shop
 awning supplier
@@ -197,10 +199,13 @@ b2b tires
 b2b tractor dealers
 b2b truck equipment parts and accessories
 baby gear and furniture
-back shop
+bäckerei
+bäckerei  
+bäckerei  
 backflow services
 background check services
 backpacking area
+back shop
 badminton court
 bagel restaurant
 bagel shop
@@ -220,9 +225,9 @@ baozi restaurant
 baptist church
 bar
 bar and grill restaurant
-bar crawl
 barbecue restaurant
 barber
+bar crawl
 barre classes
 bars
 bartender
@@ -263,9 +268,12 @@ behavior analyst
 belarusian restaurant
 belgian restaurant
 belizean restaurant
-best cafe munich
-best pizza munich
-best restaurant munich
+best cafe  
+best cafe  
+best pizza  
+best pizza  
+best restaurant  
+best restaurant  
 betting center
 beverage store
 beverage supplier
@@ -294,20 +302,20 @@ board of education offices
 boat builder
 boat charter
 boat dealer
+boating places
 boat parts and accessories
 boat parts and supply store
 boat rental and training
 boat service and repair
 boat storage facility
 boat tours
-boating places
 bobsledding field
 bocce ball court
 body contouring
 bolivian restaurant
-book magazine distribution
 bookbinding
 bookkeeper
+book magazine distribution
 bookmakers
 books mags music and video
 bookstore
@@ -321,10 +329,10 @@ boutique
 bowl food
 bowling alley
 bowling alleys
-box lunch supplier
 boxing class
 boxing club
 boxing gym
+box lunch supplier
 brake service and repair
 brasserie
 brazilian jiu jitsu club
@@ -356,12 +364,6 @@ burger
 burger king
 burger restaurant
 burmese restaurant
-bus rentals
-bus service
-bus station
-bus stop
-bus ticket agency
-bus tours
 business
 business advertising
 business banking service
@@ -379,15 +381,20 @@ business signage
 business storage and transportation
 business to business
 business to business services
+bus rentals
+bus service
+bus station
+bus stop
+bus ticket agency
+bus tours
 butcher shop
-bäckerei
-bäckerei münchen
 cabaret
 cabin
 cabinet sales service
 cable car service
 cafe
-cafe münchen
+cafe  
+cafe  
 cafeteria
 cajun and creole restaurant
 cake shop
@@ -412,13 +419,6 @@ car broker
 car buyer
 car dealer
 car dealerships
-car inspection
-car rental agency
-car sharing
-car stereo installation
-car stereo store
-car wash
-car window tinting
 cardio classes
 cardiologist
 cardiovascular and thoracic surgeon
@@ -426,13 +426,20 @@ cards and stationery store
 career counseling
 caribbean restaurant
 caricature
+car inspection
 carousel
 carpenter
 carpet cleaning
 carpet dyeing
 carpet installation
 carpet store
+car rental agency
+car sharing
+car stereo installation
+car stereo store
 cartooning museum
+car wash
+car window tinting
 casino
 casting molding and machining
 castle
@@ -454,21 +461,23 @@ chambers of commerce
 champagne bar
 charity organization
 charter school
-cheap food munich
-cheap restaurant munich
+cheap food  
+cheap food  
+cheap restaurant  
+cheap restaurant  
 check cashing payday loans
 cheerleading
 cheese shop
-cheese tasting classes
 cheesesteak restaurant
+cheese tasting classes
 chemical plant
 chicken restaurant
 chicken wings restaurant
+childbirth education
 child care and day care
+childproofing
 child protection service
 child psychiatrist
-childbirth education
-childproofing
 children hall
 childrens clothing store
 childrens hospital
@@ -495,8 +504,8 @@ city halls
 civic center
 civil engineers
 civil examinations academy
-civil rights lawyers
 civilization museum
+civil rights lawyers
 cleaning products supplier
 cleaning services
 cliff jumping center
@@ -575,8 +584,8 @@ corporate office
 cosmetic and beauty supplies
 cosmetic dentist
 cosmetic products manufacturer
-cosmetic surgeon
 cosmetics stores
+cosmetic surgeon
 cosmetology school
 costa rican restaurant
 costume museum
@@ -590,8 +599,8 @@ country dance hall
 country house
 courier and delivery services
 courier services
-court reporter
 courthouse
+court reporter
 courts
 coworking space
 cpr classes
@@ -618,9 +627,9 @@ currency exchange offices
 curry sausage restaurant
 custom cakes shop
 custom clothing
-custom t shirt store
 customized merchandise
 customs broker
+custom t shirt store
 cycling classes
 czech restaurant
 dairy farm
@@ -656,9 +665,9 @@ department store
 department stores
 dermatologist
 desert
+designer clothing
 design museum
 design studios
-designer clothing
 dessert
 desserts
 diagnostic imaging
@@ -670,7 +679,8 @@ digitizing services
 dim sum restaurant
 diner
 dining
-dining munich
+dining 
+dining  
 dinner
 dinner theater
 direct mail advertising
@@ -690,20 +700,21 @@ divorce and family law
 diy auto shop
 diy foods restaurant
 dj service
-do it yourself store
-do it yourself stores
 doctor
 documentation services
 dog meat restaurant
 dog park
 dog trainer
 dog walkers
+do it yourself store
+do it yourself stores
 domestic airports
 domestic business and trade organizations
 dominican restaurant
 dominos
 donation center
 doner
+döner
 doner kebab
 donuts
 door sales service
@@ -728,9 +739,6 @@ dumpster rentals
 dunkin
 duplication services
 duty free shop
-döner
-e cigarette store
-e commerce service
 ear nose and throat
 eastern european restaurant
 eat
@@ -738,6 +746,8 @@ eat and drink
 eatertainment
 eating disorder treatment centers
 eating place
+e cigarette store
+e commerce service
 ecuadorian restaurant
 edeka
 editorial services
@@ -748,12 +758,12 @@ educational services
 educational supply store
 egyptian restaurant
 elder care planning
-electric utility provider
 electrical consultant
 electrical supply store
 electrical wholesaler
 electrician
 electricity supplier
+electric utility provider
 electronic parts supplier
 electronics
 electronics repair shop
@@ -779,10 +789,10 @@ endoscopist
 energy company
 energy equipment and solution
 energy management and conservation consultants
-engine repair service
 engineering consultancies
 engineering schools
 engineering services
+engine repair service
 engraving
 entertainment law
 environmental abatement services
@@ -807,8 +817,8 @@ esthetician
 ethical grocery
 ethiopian restaurant
 european restaurant
-ev charging station
 evangelical church
+ev charging station
 event photography
 event planning
 event technology service
@@ -821,8 +831,8 @@ exhibition and trade center
 exhibition centers
 exporters
 exterior design
-eye care clinic
 eyebrow service
+eye care clinic
 eyelash service
 eyewear and optician
 fabric store
@@ -838,17 +848,17 @@ family service center
 farm
 farm equipment and supply
 farm equipment repair service
-farm insurance
 farmers market
 farmers markets
 farming equipment store
 farming services
+farm insurance
 farrier services
 fashion
 fashion accessories store
 fashion stores
-fast food restaurant
 fastener supplier
+fast food restaurant
 federal government offices
 fence and gate sales service
 fencing club
@@ -867,11 +877,11 @@ financial advisory offices
 financial service
 fingerprinting service
 fire and water damage restoration
+firearm training
 fire department
 fire departments
-fire protection service
-firearm training
 fireplace service
+fire protection service
 firewood
 firework retailer
 first aid class
@@ -879,10 +889,10 @@ fischbrotchen restaurant
 fish and chips restaurant
 fish farm
 fish farms and hatcheries
-fish restaurant
 fishing charter
 fishing club
 fishmonger
+fish restaurant
 fitness equipment stores
 fitness equipment wholesaler
 fitness exercise equipment
@@ -904,6 +914,7 @@ flyboarding rental
 fmcg wholesaler
 fondue restaurant
 food
+food 
 food and beverage consultant
 food and beverage exporter
 food banks
@@ -911,17 +922,17 @@ food beverage service distribution
 food consultant
 food court
 food delivery service
-food munich
-food münchen
+food  
+food  
 food near me
 food open now
 food safety training
 food stand
 food tours
 food truck
-foot care
 football club
 football stadium
+foot care
 footwear wholesaler
 forest
 forestry consultants
@@ -944,8 +955,9 @@ french restaurant
 friterie
 frozen foods
 frozen yoghurt shop
+frühstück  
+frühstück  
 fruits and vegetables
-frühstück münchen
 fuel dock
 funeral services and cemeteries
 fur clothing
@@ -984,8 +996,8 @@ general practitioners
 generator installation repair
 geneticist
 gents tailor
-geologic formation
 geological services
+geologic formation
 georgian restaurant
 geriatric medicine
 geriatric psychiatry
@@ -1019,8 +1031,8 @@ greek restaurant
 greengrocer
 greenhouses
 grill house
-grill restaurant
 grilling equipment
+grill restaurant
 grocery store
 grocery stores
 grout service
@@ -1078,8 +1090,8 @@ heliports
 hematology
 henna artist
 hepatologist
-herb and spice shop
 herbal shop
+herb and spice shop
 high gliding center
 high school
 hiking trail
@@ -1112,26 +1124,26 @@ home goods stores
 home health care
 home improvement store
 home inspector
+homeless shelter
 home network installation
+homeopathic medicine
 home organization
+homeowner association
 home security
 home service
 home staging
 home theater systems stores
 home window tinting
-homeless shelter
-homeopathic medicine
-homeowner association
 honduran restaurant
 honey farm shop
 hong kong style cafe
 hookah bar
+horseback riding service
 horse boarding
 horse equipment shop
 horse racing track
 horse riding
 horse trainer
-horseback riding service
 hospice
 hospital
 hospital equipment and supplies
@@ -1140,17 +1152,18 @@ hospitals
 hostel
 hot air balloons tour
 hot dog restaurant
-hot springs
-hot tubs and pools
 hotel
 hotel bar
 hotel supply service
-house sitting
+hot springs
+hot tubs and pools
 houseboat
+house sitting
 housing authorities
 housing cooperative
 housing offices
 hr services
+HR services
 human resource services
 hungarian restaurant
 hunting and fishing supplies
@@ -1172,7 +1185,8 @@ ice skating rink
 ice supplier
 image consultant
 imbiss
-imbiss münchen
+imbiss  
+imbiss  
 immigration and naturalization
 immigration assistance services
 immigration law
@@ -1227,12 +1241,13 @@ irrigation
 irrigation companies
 island
 israeli restaurant
+italian restaurant
+italienisch restaurant
 it consultant
 it service and computer repair
 it service companies
+IT service companies
 it support and service
-italian restaurant
-italienisch restaurant
 iv hydration
 jail and prison
 jamaican restaurant
@@ -1281,17 +1296,17 @@ korean restaurant
 kosher grocery store
 kosher restaurant
 kurdish restaurant
-labor offices
-labor union
 laboratory
 laboratory equipment supplier
 laboratory testing
+labor offices
+labor union
 lactation services
 lake
-land surveying
 landmark and historical building
 landscape architect
 landscaping
+land surveying
 language school
 language schools
 laotian restaurant
@@ -1307,12 +1322,12 @@ laundromat
 laundry services
 law enforcement
 law firms
-law offices
-law schools
 lawn bowling club
 lawn mower repair service
 lawn mower store
 lawn service
+law offices
+law schools
 lawyer
 leather goods
 leather products manufacturer
@@ -1324,11 +1339,11 @@ lice treatment
 lidl
 life coach
 life insurance
-light rail and subway stations
 lighthouse
 lighting fixture manufacturers
 lighting fixtures and equipment
 lighting store
+light rail and subway stations
 lime professionals
 limo services
 linen
@@ -1346,7 +1361,8 @@ logging contractor
 logging equipment and supplies
 logging services
 lokal
-lokal münchen
+lokal  
+lokal  
 lookout
 lottery ticket
 lounge
@@ -1371,18 +1387,18 @@ marching band
 marina
 market
 market food
-market stall
 marketing agencies
 marketing agency
 marketing consultant
+market stall
 marriage or relationship counselor
 martial arts club
 masonry concrete
 masonry contractors
-mass media
 massage
 massage school
 massage therapy
+mass media
 matchmaker
 maternity centers
 maternity wear
@@ -1390,10 +1406,10 @@ mattress manufacturing
 mattress store
 mcdonalds
 meal
+meatball restaurant
 meat restaurant
 meat shop
 meat wholesaler
-meatball restaurant
 mechanical engineers
 media agency
 media critic
@@ -1423,8 +1439,8 @@ metal detector services
 metal fabricator
 metal materials and experts
 metal plating service
-metal supplier
 metals
+metal supplier
 metro station
 mexican grocery store
 mexican restaurant
@@ -1436,12 +1452,13 @@ military surplus store
 milk bar
 milkshake bar
 mills
-mini market
 miniature golf course
+mini market
 mining
 mission
 misting system services
-mittagessen münchen
+mittagessen  
+mittagessen  
 mobile clinic
 mobile dent repair
 mobile home dealer
@@ -1466,7 +1483,6 @@ mortgage lender
 mortuary services
 mosque
 motel
-motor freight trucking
 motorcycle dealer
 motorcycle dealerships
 motorcycle gear
@@ -1474,9 +1490,10 @@ motorcycle manufacturer
 motorcycle parking
 motorcycle rentals
 motorcycle repair
+motor freight trucking
+motorsports store
 motorsport vehicle dealer
 motorsport vehicle repair
-motorsports store
 mountain
 mountain bike parks
 mountain bike trails
@@ -1489,18 +1506,18 @@ muay thai club
 mulled wine
 museum
 museums
+musical band orchestras and symphonies
+musical instrument services
+musical instrument store
 music and dvd store
 music critic
 music festivals and organizations
+musician
 music production
 music production services
 music school
 music venue
 music venues
-musical band orchestras and symphonies
-musical instrument services
-musical instrument store
-musician
 mystic
 nail salon
 nanny services
@@ -1525,10 +1542,11 @@ nicaraguan restaurant
 nigerian restaurant
 night bar
 night bus station
+nightclubs
 night market
 night shuttle
+night shuttle 
 night train station
-nightclubs
 non governmental association
 noodle bar
 noodles restaurant
@@ -1593,20 +1611,20 @@ package locker
 packaging contractors and service
 packing services
 packing supply
-paddle tennis club
-paddleboard rental
 paddleboarding center
 paddleboarding lessons
+paddleboard rental
+paddle tennis club
 pain management
 paint and sip
-paint store
-paint your own pottery
 paintball
 painting
+paint store
+paint your own pottery
 pakistani restaurant
 palace
-pan asian restaurant
 panamanian restaurant
+pan asian restaurant
 pancake house
 pancakes
 paper mill
@@ -1644,6 +1662,7 @@ pediatric cardiology
 pediatric dentist
 pediatric endocrinology
 pediatric gastroenterology
+pediatrician
 pediatric infectious disease
 pediatric nephrology
 pediatric neurology
@@ -1652,10 +1671,9 @@ pediatric orthopedic surgery
 pediatric pulmonology
 pediatric radiology
 pediatric surgery
-pediatrician
 pedicab service
-pen store
 pension
+pen store
 pentecostal church
 performing arts
 perfume store
@@ -1678,16 +1696,16 @@ pet groomer
 pet hospice
 pet insurance
 pet photography
+pets
 pet services
 pet sitting
 pet store
 pet stores
 pet supplies stores
+petting zoo
 pet training
 pet transportation
 pet waste removal
-pets
-petting zoo
 pharmaceutical companies
 pharmaceutical products wholesaler
 pharmacies
@@ -1708,22 +1726,22 @@ piano bar
 piano services
 piano store
 pick your own farm
-pie shop
 pier
 piercing
+pie shop
 pig farm
 pigs trotters restaurant
 pilates studio
-pipe supplier
 pipeline transportation
+pipe supplier
 pizza
 pizza delivery
 pizza delivery service
 pizza hut
 pizza restaurant
 pizzeria
-place to eat
 placenta encapsulation service
+place to eat
 planetarium
 plasterer
 plastic company
@@ -1751,9 +1769,9 @@ pool and hot tub services
 pool billiards
 pool cleaning
 pool hall
+popcorn shop
 pop up restaurant
 pop up shop
-popcorn shop
 portuguese restaurant
 post office
 post offices
@@ -1768,9 +1786,9 @@ preschool
 pressure washing
 pretzels
 preventive medicine
-print media
 printing equipment and supply
 printing services
+print media
 private association
 private equity firm
 private establishments and corporates
@@ -1805,6 +1823,7 @@ public adjuster
 public and government association
 public bath houses
 public health clinic
+publicity service
 public market
 public phones
 public plaza
@@ -1817,7 +1836,6 @@ public toilet
 public transport
 public transportation
 public utility company
-publicity service
 pubs
 puerto rican restaurant
 pulmonologist
@@ -1830,8 +1848,8 @@ race track
 racing experience
 racquetball court
 radio and television commercials
-radio station
 radiologist
+radio station
 rafting kayaking area
 railroad freight
 railway service
@@ -1847,12 +1865,12 @@ real estate investment
 real estate law
 real estate photography
 real estate service
-record label
 recording and rehearsal studio
-recreation centers
-recreation vehicle repair
+record label
 recreational vehicle dealer
 recreational vehicle parts and accessories
+recreation centers
+recreation vehicle repair
 recruitment agencies
 recycling center
 recycling centers
@@ -1874,17 +1892,18 @@ reptile shop
 research institute
 resort
 rest areas
-rest stop
 restaurant
+restaurant 
 restaurant equipment and supply
 restaurant in der nähe
 restaurant management
-restaurant munich
-restaurant münchen
+restaurant  
+restaurant  
 restaurant near me
 restaurant open now
-restaurant wholesale
 restaurants
+restaurant wholesale
+rest stop
 retail
 retail stores
 retaining wall supplier
@@ -1894,13 +1913,13 @@ rewe
 rheumatologist
 rice mill
 rice shop
-ride sharing
 rideshare pickup
+ride sharing
 ristorante italiano
 river
 road contractor
-road structures and services
 roadside assistance
+road structures and services
 rock climbing gym
 rock climbing instructor
 rock climbing spot
@@ -1911,9 +1930,9 @@ roofing
 rooftop bar
 rotisserie chicken restaurant
 rowing club
-rug store
 rugby pitch
 rugby stadium
+rug store
 ruin
 russian grocery store
 russian restaurant
@@ -1931,8 +1950,8 @@ salad bar
 salsa club
 salvadoran restaurant
 sand and gravel supplier
-sand dune
 sandblasting service
+sand dune
 sandwich shop
 saree shop
 sauna
@@ -1992,6 +2011,7 @@ shoe shining service
 shoe store
 shoe stores
 shooting range
+shop
 shopping
 shopping center
 shopping malls
@@ -2010,9 +2030,9 @@ skating rink
 ski and snowboard school
 ski and snowboard shop
 ski area
-ski resort
 skilled nursing
 skin care
+ski resort
 sky diving
 skylight installation
 skyline
@@ -2027,8 +2047,8 @@ smoothie juice bar
 snack
 snorkeling
 snorkeling equipment rental
-snow removal service
 snowboarding center
+snow removal service
 snuggle service
 soccer club
 soccer field
@@ -2114,8 +2134,8 @@ student union
 studio taping
 subway
 subway station
-sugar shack
 sugaring
+sugar shack
 suicide prevention services
 sunglasses store
 supermarket
@@ -2123,11 +2143,11 @@ supermarkets
 supernatural reading
 superstore
 supper club
-surf lifesaving club
-surf shop
 surfboard rental
 surfing
 surfing school
+surf lifesaving club
+surf shop
 surgeon
 surgical appliances and supplies
 surgical center
@@ -2139,7 +2159,6 @@ swimwear store
 swiss restaurant
 synagogue
 syrian restaurant
-t shirt store
 tabac
 table tennis club
 tabletop games
@@ -2149,8 +2168,8 @@ taco restaurant
 taekwondo club
 tai chi studio
 taiwanese restaurant
-take out
 takeaway
+take out
 talent agency
 tanning bed
 tanning salon
@@ -2161,16 +2180,16 @@ tattoo
 tattoo and piercing
 tattoo removal
 tax consultants
-tax law
-tax office
-tax services
+taxidermist
 taxi rank
 taxi service
 taxi stand
-taxidermist
+tax law
+tax office
+tax services
+team building activity
 tea room
 tea wholesaler
-team building activity
 teeth whitening
 telecommunications
 telecommunications company
@@ -2195,9 +2214,9 @@ theatre
 theatrical productions
 theme restaurant
 third wave coffee
-thread supplier
 threading service
 threads and yarns wholesaler
+thread supplier
 thrift store
 ticket sales
 tiki bar
@@ -2232,21 +2251,21 @@ trail
 trailer dealer
 trailer rentals
 trailer repair
-train station
 training providers
 trains
+train station
+trampoline park
 tram station
 tram stop
-trampoline park
 transcription services
 transit station
 translating and interpreting services
 translation services
 transmission repair
-transport interchange
-transport station
 transportation
 transportation hub
+transport interchange
+transport station
 trattoria
 travel
 travel agents
@@ -2263,9 +2282,10 @@ truck gas station
 truck rentals
 truck repair
 truck repair and services for businesses
-truck stop
 trucks and industrial vehicles
+truck stop
 trusts
+t shirt store
 tubing provider
 tui na
 turkish baths
@@ -2343,17 +2363,17 @@ watch repair service
 watch store
 watch stores
 water delivery
+waterfall
 water heater installation repair
 water park
 water parks
+waterproofing
 water purification services
 water softening equipment supplier
 water store
 water supplier
 water taxi
 water treatment equipment and services
-waterfall
-waterproofing
 waxing
 weather forecast services
 weather station
@@ -2373,8 +2393,8 @@ wheel and rim repair
 whiskey bar
 wholesale florist
 wholesale grocer
-wholesale store
 wholesaler
+wholesale store
 wig store
 wild game meats restaurant
 wildlife control
@@ -2382,20 +2402,21 @@ wildlife hunting range
 wildlife sanctuary
 wills trusts and probate
 wind energy
+windows installation
 window supplier
 window treatment store
 window washing
-windows installation
 windshield installation and repair
 windsurfing center
 wine bar
+winery
 wine tasting classes
 wine tasting room
 wine tours
 wine wholesaler
-winery
 wirtshaus
-wirtshaus münchen
+wirtshaus  
+wirtshaus  
 wo essen
 wok restaurant
 womens clothing store

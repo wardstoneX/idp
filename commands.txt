@@ -1,0 +1,12 @@
+conda env create -f environment.yml
+conda activate night-mobility
+mkdir -p $HOME/opt
+cd $HOME/opt
+wget https://go.dev/dl/go1.26.3.linux-amd64.tar.gz
+tar -xzf go1.26.3.linux-amd64.tar.gz
+export PATH=$HOME/opt/go/bin:$PATH
+cd ~/idp/idp ## change to repo again
+cd google-maps-scraper
+go clean -cache -modcache
+go mod download
+go build

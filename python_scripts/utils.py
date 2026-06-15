@@ -1,7 +1,6 @@
 import json
 import re
 import math
-import numpy as np
 
 DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
@@ -11,6 +10,20 @@ DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sun
 def load_locations(path="../misc/locations.json"):
     with open(path, "r") as f:
         return json.load(f)
+
+
+# =========================================================
+# BBOX FROM CENTER POINT
+# =========================================================
+def point_to_bbox(lat: float, lon: float, size_km: float) -> str:
+    """
+    Return a bounding-box string for a square of size_km × size_km
+    centered on (lat, lon). Format: "minLat,minLon,maxLat,maxLon".
+    """
+    half = size_km / 2.0
+    delta_lat = half / 111.32
+    delta_lon = half / (111.32 * math.cos(math.radians(lat)))
+    return f"{lat - delta_lat:.6f},{lon - delta_lon:.6f},{lat + delta_lat:.6f},{lon + delta_lon:.6f}"
 
 
 # =========================================================
@@ -38,7 +51,7 @@ def haversine(lat1, lon1, lat2, lon2):
 # SAFE JSON LOADER
 # =========================================================
 def safe_json_load(x):
-    if x is None or (isinstance(x, float) and np.isnan(x)):
+    if x is None or (isinstance(x, float) and x != x):
         return None
 
     if isinstance(x, dict):

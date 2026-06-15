@@ -1,6 +1,8 @@
 import subprocess
 from pathlib import Path
 import json
+import argparse
+import sys
 
 
 # =========================
@@ -8,8 +10,7 @@ import json
 # =========================
 
 QUERIES_FOLDER = Path("../queries")
-RESULTS_FOLDER = Path("../results")
-LOCATIONS_FILE = Path("../misc/locations.json")
+ALL_QUERIES_FILE = Path("queries/all-queries.txt")
 
 DOCKER_IMAGE = "gosom/google-maps-scraper"
 
@@ -36,11 +37,11 @@ def load_locations(path: Path):
 # MAIN SCRAPER
 # =========================
 
-def run_scraper():
+def run_scraper(results_folder: Path, locations_file: Path):
 
-    RESULTS_FOLDER.mkdir(parents=True, exist_ok=True)
+    results_folder.mkdir(parents=True, exist_ok=True)
 
-    locations = load_locations(LOCATIONS_FILE)
+    locations = load_locations(locations_file)
     query_files = list(QUERIES_FOLDER.glob("*.txt"))
 
     if not query_files:
@@ -61,7 +62,7 @@ def run_scraper():
         for query_file in query_files:
 
             category = query_file.stem
-            output_file = RESULTS_FOLDER / f"{city}_{category}.csv"
+            output_file = results_folder / f"{city}_{category}.csv"
 
             print(f"Running: {city} + {category}")
             print(f"Output: {output_file}")
@@ -106,4 +107,19 @@ def run_scraper():
 # =========================
 
 if __name__ == "__main__":
-    run_scraper()
+    parser = argparse.ArgumentParser(description="Scrape Google Maps data using Docker")
+    parser.add_argument(
+        "--results-folder",
+        type=Path,
+        default=Path("../results"),
+        help="Output folder for results (default: ../results)"
+    )
+    parser.add_argument(
+        "--locations-file",
+        type=Path,
+        default=Path("../misc/locations.json"),
+        help="JSON file with location coordinates (default: ../misc/locations.json)"
+    )
+    
+    args = parser.parse_args()
+    run_scraper(args.results_folder, args.locations_file)
