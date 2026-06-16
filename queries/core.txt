@@ -1,0 +1,60 @@
+cinema
+movie theater
+bar
+nightclub
+cafe
+museum
+stadium
+event venue
+restaurant
+food
+dining
+takeaway
+delivery food
+pizza
+burger
+cafe
+coffee shop
+bar
+pub
+bakery
+fast food
+restaurant
+kebab
+street food
+supermarket
+hospital
+clinic
+pharmacy
+bank
+atm
+post office
+supermarket
+grocery store
+convenience store
+shopping mall
+department store
+retail store
+clothing store
+shoe store
+electronics store
+mobile phone store
+furniture store
+hardware store
+drugstore
+cosmetics store
+sports store
+bookstore
+pet store
+car dealership
+market
+store
+train station
+metro station
+subway station
+bus stop
+bus station
+tram stop
+taxi stand
+parking lot
+transportation hub

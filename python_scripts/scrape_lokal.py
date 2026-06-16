@@ -26,14 +26,14 @@ PROXIES_FILE = Path("proxy-list.txt")
 
 RADIUS = "1000"
 ZOOM = "16"
-DEPTH = "5"
-PARALLELISM = "8"
-BROWSER_POOL_SIZE = "8"
+DEPTH = "1"
+PARALLELISM = "12"
+BROWSER_POOL_SIZE = "12"
 PAGES_PER_BROWSER = "1"
 EXIT_ON_INACTIVITY = "1m"
 
 # ---- grid-bbox mode ----
-GRID_CELL_KM = "0.5"   # 500mo radi per grid cell
+GRID_CELL_KM = "0.7"   # 500mo radi per grid cell
 BBOX_SIZE_KM = 2.0      # 2km × 2km box centered on location
 
 # =========================
@@ -189,13 +189,15 @@ def run_scraper(results_folder: Path, locations_file: Path):
             "./google-maps-scraper/google-maps-scraper",
             "-input", str(ALL_QUERIES_FILE.resolve()),
             "-results", str(output_file.resolve()),
-            "-failed-file", str(failed_file.resolve()),
-            "-skipped-file", str(skipped_file.resolve()),
-            "-grid-bbox", bbox,
-            "-grid-cell", GRID_CELL_KM,
+            #"-failed-file", str(failed_file.resolve()),
+            #"-skipped-file", str(skipped_file.resolve()),
+            #"-grid-bbox", bbox,
+            #"-grid-cell", GRID_CELL_KM,
             "-radius", RADIUS,
+            "-fast-mode",
+            "-geo", f"{lat},{lon}",
             "-zoom", ZOOM,
-            "-depth", DEPTH,
+            #"-depth", DEPTH,
             "-c", PARALLELISM,
             "-browser-pool-size", BROWSER_POOL_SIZE,
             "-pages-per-browser", PAGES_PER_BROWSER,
